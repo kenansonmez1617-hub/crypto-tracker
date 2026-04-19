@@ -21,7 +21,7 @@ const Header = () => {
                 Udemig Tracker
               </h1>
               <p className="text-xs text-gray-500 dark:text-gray-400">
-                Kripto para takip sistemi
+                Kripto paralar için takip sistemi
               </p>
             </div>
           </Link>
