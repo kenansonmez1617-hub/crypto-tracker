@@ -45,7 +45,7 @@ Gerçek zamanlı kripto para verilerini kullanıcı dostu bir arayüzle sunar.
 <h2>✨ Öne Çıkan Özellikler</h2>
 
 <ul>
-<<li>📈 Kripto para listeleme ve detay görüntüleme</li>
+<li>📈 Kripto para listeleme ve detay görüntüleme</li>
 <li>🔄 API üzerinden dinamik veri çekme</li>
 <li>🌙 Dark / Light mode toggle</li>
 <li>⚡ Hızlı ve optimize edilmiş yapı (Vite)</li>
