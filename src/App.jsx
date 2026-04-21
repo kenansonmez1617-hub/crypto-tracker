@@ -9,9 +9,13 @@ const App = () => {
   return (
     <BrowserRouter>
       <div className="min-h-screen flex flex-col bg-gray-50 dark:bg-gray-900 dark:text-white">
+        <a href="#main-content" className="sr-only focus:not-sr-only">
+          İçeriğe geç
+        </a>
+
         <Header />
 
-        <main className="container flex-1 py-6d">
+        <main id="#main-content" className="container flex-1 py-6">
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/coin/:id" element={<Detail />} />
